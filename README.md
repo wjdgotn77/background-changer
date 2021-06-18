@@ -1,14 +1,18 @@
 # Mini Web Project - Background Changer
 ![image](https://user-images.githubusercontent.com/80671448/122549523-8a958700-d06d-11eb-98a5-caf2f92ca85b.png)
 
-바닐라코딩 프렙코스 사전학습가이드 step 4. miniweb project 중 backgound changer 을 만들어보았습니다.
+### 기간 5 / 10 - 11
+바닐라코딩 프렙코스 사전학습가이드 <br/>
+step 4. miniweb project 중 backgound changer 을 만들어보았습니다.<br/>
 
 # 스택
 JavaScript / CSS / HTML
 
 # 요구사항
 [요구사항] Day 1<br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/80671448/122549396-620d8d00-d06d-11eb-81cc-e99297ef0070.png)
+<br/>
 위 이미지와 같은 페이지 만들기<br/>
 <br/>
 [요구사항] Day 2<br/>
